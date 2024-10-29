@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entries><entry id="1"><content>Study/보안
+제 2회 학생용 해킹노트 online conference 후기
+화이트햇 해커가 되고 싶은 이들을 위해 입문 정보와 동기부여가 필요한 이들을 위해 진행된 온라인 컨퍼런스에 참여했다. 오후 1시부터 밤 11시까지 이어진 이번 컨퍼런스에서는 다양한 화이트햇 해커들이 자신의 경험과 지식을 공유하는 귀중한 시간이였다. 특히 해킹에 관심이 많았지만 어디서부터 시작해야 할지 막막했던 이들에게 큰 도움이 되었을 것이라 생각된다. 총 4부로 나뉘어 진행되었는데,1부: 청소년 해커의 이야기2부: 대학(원)생 해커의 이야기3부: 직장인 해커의 이야기4부: KISA, TEAM H4C, KITRI BoB+퀴즈 Time 1부 같은 경우는 중, 고등학생의 신분을 가지고 다양한 활동을 진행한 해커의 이야기를 담고 있었다. 아무래도 보안 입문을 언제 해야하는지, 어떤걸 어떻게 공부해야 하는지, ..
+2024. 8. 1. 22:50</content></entry><entry id="2"><content>Study/Programming
+[알고리즘]Palindrome Algorithm / 팰린드롬 알고리즘 + 예시문제
+Palindrome Algorithm이란?회문 판별 알고리즘. 주어진 문자열이 회문인지 아닌지 판별하는 알고리즘으로,간단하게 생각하면...ex) 우영우의 기러기-토마토-스위스-인도인-별똥별 문자열 중 회문인 문자열을 찾기 위해 다이나믹 프로그래밍을 이용하여 시간복잡도를 O(N^2)으로 줄일 수 있다.(시간복잡도란? 입력값과 연산 수행시간의 상관관계를 나타내는 척도(길이)를 시간 복잡도라고 한다.)예시를 들어보자면, 문제 :키보드로 문자열을 입력받아서 앞과 뒤방향이 동일한 가장 긴 부분 문자열의 길이를 출력하시오.단, 입력받는 문자열의 길이는 100미만이라고 가정한다.예)입력 : abacabaek출력 : 7예시 입력과 결과예시 입력: "babad"단계별 설명초기 상태입력 문자열: babad 길이: 5단계 ..
+2024. 7. 24. 12:24</content></entry><entry id="3"><content>Study/Programming
+블록체인 (BlockChain)
+들어가기 전에...'블록체인' == '비트코인'으로 생각하는 이들이 많다. 비트코인은 암호화폐(Cryptocurrency)의 일종이고, 블록체인 기술의 특징을 포함하지 블록체인은 아니다.블록체인 쉽게 이해하기블록체인은 마치 여러 사람이 공동으로 사용하는 거래 장부와 비슷하다고 생각하면 된다. 이 장부는 특별한 점이 있는데,1. 모두가 공유하지만, 아무도 지배하지 않는다:모든 참여자가 거래 기록을 복사본을 가지고 있으며, 누구도 이를 혼자 바꿀 수 없다. 2. 거래 기록은 영구히 남는다:한 번 기록된 거래는 절대 지워지거나 바꿀 수 없도록 되어 있다. 3. 모두가 투명하게 확인할 수 있다:누구나 언제든지 거래 기록을 확인할 수 있으며, 이는 매우 투명한 방식으로 이루어진다.이러한 특징들 덕분에 블록체인은 ..
+2024. 5. 14. 15:11</content></entry><entry id="4"><content>Study/Crypto
+sha256(hash algorithm)에 대해서 알아보자 (C++)
+1) sha는 'Secure Hash Algorithm'의 약자고, 256은 메모리를 차지하는 비트 수이다. 2) 해시(16진법)의 길이는 언제나 64자이고 숫자뿐만 아니라 문자가 올 수 있다.sha256을 테스트해보고 싶으면 아래 사이트를 확인해 보자. 1. https://tools.superdatascience.com/blockchain/hash2. https://emn178.github.io/online-tools/sha256.html3) 해시(hash)의 특징: - 입력값의 길이가 달라도, 출력값은 언제나 고정되어 있는 길이를 반환한다.- 동일한 값이 입력되면 언제나 같은 값을 출력한다.4) 암호화 해시 함수:- 암호화 해시 함수는 위 해시함수의 부분집합에 포함된다. 암호화 해시 함수는 이름 그대..
+2024. 5. 9. 14:48</content></entry><entry id="5"><content>Study/자격증
+행정관리사 3급 / 1차 2차 후기
+행정관리사 3급이란?행정학의 기초 분야 및 한국 행정의 현실, 행정업무 및 조직과 인사관리 분야의 기초 지식과 현장 처리 실무 능력을 갖춘 수준으로서 소정의 시험을 말한다. 나는 학점은행제의 학점을 얻기 위해 응시를 하였다. 행정관리사 3급은 총 14학점을 취득할 수 있기 때문에 필수로 꼽힌다. 1차 공부법: (순공 시간 : 3시간)(1차 시험은 매우 쉽다)1. 교재를 구매하자 :새 국가공인 행정관리사 3급2. 행정관리사는 총 3과목으로 나뉘는데, 교재의 문제만 외우자. 행정관리사 시험은 문제은행식으로 출제되기 때문이다.*문제은행식이란, 많은 문제를 미리 출제해 놓고 그중의 일부를 골라서 내는 기출 형태이다.3. 문제는 똑같이 나오니까 외우기만 하면 된다. 행정관리사 사이트에 들어가서 기출을 다운로드해서..
+2024. 5. 1. 12:52</content></entry><entry id="6"><content>Study/보안
+White Hat School (WHS) 1기 후기
+2023년부터 진행한 화이트햇 스쿨이 2024년 3월 22일 인증식을 통해 막을 내렸다. 화이트햇 스쿨이란? 화이트햇 스쿨은 한국정보기술연구원의 차세대 보안리더 양성 프로그램으로, 정보보안 인재로 성장하기를 희망하는 만 24세 초급 인재를 대상으로 최신 정보보안 입문 교육 프로그램과 기술 멘토링 기회를 제공하여 중급 인재로 성장할 수 있도록 돕는 정보보안 인재 양성 프로그램이다. Best of the Best (BoB)와의 차이점은? WHS은 BoB와 유사한 면도 있으나, BoB와 달리 트랙의 유무가 없다(2기 부터는 선택하는 거 들었는데...). WHS같은 경우는 다양한 보안 분야에 대한 학습을 진행하기 때문에, 보안 분야 전반을 넓게 이해할 수 있고, 보안에 입문하는 이들에게 큰 도움이 되는 교육이다..
+2024. 4. 2. 16:23</content></entry><entry id="7"><content>Study/Programming
+BOJ 10952번 : A + B - 5 / C언어
+문제: https://www.acmicpc.net/problem/10952 10952번: A+B - 5 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오. www.acmicpc.net 코드: 더보기 #include int main() { int a, b; while(1){ scanf("%d %d", &amp;a, &amp;b); if (a == 0 &amp;&amp; b == 0) { break; } printf("%d \n", a + b); } return 0; }
+2024. 3. 29. 10:22</content></entry><entry id="8"><content>Study/Programming
+Tistory 꾸미기 - 벚꽃 / Web
+출처: https://github.com/jhammann/sakura GitHub - jhammann/sakura: 🌸 A javascript plugin to Make it rain sakura petals using CSS animations and requestAnimationFrame 🌸 A javascript plugin to Make it rain sakura petals using CSS animations and requestAnimationFrame (vanilla JS and improved version of jQuery-Sakura). - jhammann/sakura github.com 코드: (Html 코드 중에서 원하는 위치에 삽입) ''' '''
+2024. 3. 29. 10:13</content></entry><entry id="9"><content>Study/Programming
+BOJ 1676번 : 팩토리얼 0의 개수 / C언어
+문제 : https://www.acmicpc.net/problem/1676 1676번: 팩토리얼 0의 개수 N!에서 뒤에서부터 처음 0이 아닌 숫자가 나올 때까지 0의 개수를 구하는 프로그램을 작성하시오. www.acmicpc.net [처음 작성한 코드... 시간초과...] 더보기 #include int main(void){ int n, i; int fac = 1; int count = 0; scanf("%d", &amp;n); for(i = 1; i
+2024. 3. 29. 09:55</content></entry><entry id="10"><content>Study
+쓸만한 개발/보안 사이트 모음
+새로 찾을때마다 업데이트.... 보안/개발 참고https://semalt.tools/ko파일 바이러스 확인https://www.virustotal.com초기 디자인/개발https://ovenapp.io/ 보안(포너블)https://pwnable.kr/보안(웹)https://webhacking.kr/보안(SQL)https://los.rubiya.kr/
+2024. 3. 28. 13:58</content></entry></entries>
