@@ -1,0 +1,271 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "word": "운영하는 ai"
+        },
+        {
+            "id": 2,
+            "word": "인공지능 ai"
+        },
+        {
+            "id": 3,
+            "word": "행사에서 ai의"
+        },
+        {
+            "id": 4,
+            "word": "ai에 투입한다고"
+        },
+        {
+            "id": 5,
+            "word": "부문에서 ai"
+        },
+        {
+            "id": 6,
+            "word": "ai의 시대"
+        },
+        {
+            "id": 7,
+            "word": "사용자들이 페이스북과"
+        },
+        {
+            "id": 8,
+            "word": "소셜미디어에 ai"
+        },
+        {
+            "id": 9,
+            "word": "ai 사업에서"
+        },
+        {
+            "id": 10,
+            "word": "ai 기술의"
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 2,
+            "relation_description": "운영하는 ai와 인공지능 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "relation_description": "운영하는 ai와 행사에서 ai의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "relation_description": "운영하는 ai와 ai에 투입한다고는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "relation_description": "운영하는 ai와 부문에서 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "relation_description": "운영하는 ai와 ai의 시대는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "relation_description": "운영하는 ai와 사용자들이 페이스북과는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "relation_description": "운영하는 ai와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "relation_description": "운영하는 ai와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "relation_description": "운영하는 ai와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "relation_description": "인공지능 ai와 행사에서 ai의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "relation_description": "인공지능 ai와 ai에 투입한다고는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "relation_description": "인공지능 ai와 부문에서 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "relation_description": "인공지능 ai와 ai의 시대는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "relation_description": "인공지능 ai와 사용자들이 페이스북과는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "relation_description": "인공지능 ai와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "relation_description": "인공지능 ai와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "relation_description": "인공지능 ai와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "relation_description": "행사에서 ai의와 ai에 투입한다고는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "relation_description": "행사에서 ai의와 부문에서 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "relation_description": "행사에서 ai의와 ai의 시대는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "relation_description": "행사에서 ai의와 사용자들이 페이스북과는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "relation_description": "행사에서 ai의와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "relation_description": "행사에서 ai의와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "relation_description": "행사에서 ai의와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "relation_description": "ai에 투입한다고와 부문에서 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "relation_description": "ai에 투입한다고와 ai의 시대는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "relation_description": "ai에 투입한다고와 사용자들이 페이스북과는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "relation_description": "ai에 투입한다고와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "relation_description": "ai에 투입한다고와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 4,
+            "target": 10,
+            "relation_description": "ai에 투입한다고와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "relation_description": "부문에서 ai와 ai의 시대는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "relation_description": "부문에서 ai와 사용자들이 페이스북과는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "relation_description": "부문에서 ai와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "relation_description": "부문에서 ai와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "relation_description": "부문에서 ai와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "relation_description": "ai의 시대와 사용자들이 페이스북과는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "relation_description": "ai의 시대와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "relation_description": "ai의 시대와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "relation_description": "ai의 시대와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "relation_description": "사용자들이 페이스북과와 소셜미디어에 ai는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "relation_description": "사용자들이 페이스북과와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "relation_description": "사용자들이 페이스북과와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "relation_description": "소셜미디어에 ai와 ai 사업에서는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "relation_description": "소셜미디어에 ai와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "relation_description": "ai 사업에서와 ai 기술의는 금융 기사에서 관련된 용어로 함께 등장합니다."
+        }
+    ]
+}
