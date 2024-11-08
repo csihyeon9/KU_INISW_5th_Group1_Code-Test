@@ -1,0 +1,6 @@
+torch==1.12.0                # PyTorch
+torch-geometric==2.0.4       # PyTorch Geometric
+scikit-learn==1.1.1          # Machine Learning 및 유사도 계산
+matplotlib==3.5.2            # 그래프 시각화
+pandas==1.4.3                # 데이터 프레임 관리
+networkx==2.8.4              # 그래프 시각화와 변환
